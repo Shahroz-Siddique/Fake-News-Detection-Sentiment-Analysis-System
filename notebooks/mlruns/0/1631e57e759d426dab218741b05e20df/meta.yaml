@@ -1,0 +1,15 @@
+artifact_uri: file:///home/foxtech/SHAHROZ_PROJ/Fake_news/notebooks/mlruns/0/1631e57e759d426dab218741b05e20df/artifacts
+end_time: 1747915774383
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1631e57e759d426dab218741b05e20df
+run_name: MultinomialNB
+run_uuid: 1631e57e759d426dab218741b05e20df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747915771230
+status: 3
+tags: []
+user_id: foxtech
