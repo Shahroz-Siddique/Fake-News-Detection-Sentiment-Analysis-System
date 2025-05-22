@@ -1,0 +1,14 @@
+mlflow
+transformers
+datasets
+sentencepiece
+langchain
+openai        
+streamlit     
+scikit-learn
+pandas
+matplotlib
+seaborn
+numpy
+nltk
+wordcloud
