@@ -1,0 +1,6 @@
+paths:
+  raw_data: data/raw
+  processed_data: data/processed/clean_news.csv
+  X_tfidf: data/processed/X.pkl
+  y_tfidf: data/processed/y.pkl
+  vectorizer: data/processed/vectorizer.pkl

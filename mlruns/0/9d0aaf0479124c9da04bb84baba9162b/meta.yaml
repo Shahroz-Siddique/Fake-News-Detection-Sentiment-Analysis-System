@@ -1,0 +1,15 @@
+artifact_uri: file:///home/foxtech/SHAHROZ_PROJ/Fake_news/notebooks/mlruns/0/9d0aaf0479124c9da04bb84baba9162b/artifacts
+end_time: 1747922438955
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9d0aaf0479124c9da04bb84baba9162b
+run_name: RandomForest
+run_uuid: 9d0aaf0479124c9da04bb84baba9162b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747922383190
+status: 3
+tags: []
+user_id: foxtech
